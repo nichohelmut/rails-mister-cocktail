@@ -10,3 +10,5 @@ development:
 test:
   <<: *default
   database: rails-mister-cocktail_test
+
+CLOUDINARY_URL: loudinary://936386882556229:E5mRKkSTZVf7zkflaUKzv07g_Rk@dh86rmr0j

@@ -9,18 +9,10 @@
 Ingredient.create(name: "Jäger")
 Ingredient.create(name: "Vodka")
 Ingredient.create(name: "Bier")
-Ingredient.create(name: "Bierjunge")
 Ingredient.create(name: "Uboot")
-Ingredient.create(name: "Sauf aus")
-Ingredient.create(name: "okok")
-Ingredient.create(name: "Caiprinha")
-Ingredient.create(name: "nicht ok")
-Ingredient.create(name: "jaja")
-Ingredient.create(name: "shots")
-Ingredient.create(name: "whisky")
+
 
 Cocktail.create(name: "mojito")
 Cocktail.create(name: "Vodka orange")
-Cocktail.create(name: "Bier and fun")
-Cocktail.create(name: "Bierjunge schnell bitte")
-Cocktail.create(name: "Uboot mit vodka")
+Cocktail.create(name: "only beer")
+
