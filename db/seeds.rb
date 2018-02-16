@@ -16,3 +16,17 @@ Cocktail.create(name: "mojito")
 Cocktail.create(name: "Vodka orange")
 Cocktail.create(name: "only beer")
 
+# url = "http://static.giantbomb.com/uploads/original/9/99864/2419866-nes_console_set.png"
+# article = Article.new(title: 'NES', body: "A great console")
+# article.remote_photo_url = url
+# article.save
+
+# url = "http://static.giantbomb.com/uploads/original/9/99864/2419866-nes_console_set.png"
+# article = Article.new(title: 'NES', body: "A great console")
+# article.remote_photo_url = url
+# article.save
+
+# url = "http://static.giantbomb.com/uploads/original/9/99864/2419866-nes_console_set.png"
+# article = Article.new(title: 'NES', body: "A great console")
+# article.remote_photo_url = url
+# article.save
