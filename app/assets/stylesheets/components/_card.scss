@@ -3,10 +3,12 @@
   text-shadow: 0 1px 3px rgba(0,0,0,0.6);
   background-size: cover !important;
   background-position: center;
-  color: white;
   position: relative;
   border-radius: 5px;
   margin: 5px;
+  height: 300px;
+  color: white !important;
+
 
 }
 .card-user {
@@ -28,7 +30,6 @@
   bottom: 10px;
   left: 10px;
   z-index: 10;
-
 }
 .card-description h2 {
   font-size: 24px;
@@ -37,7 +38,8 @@
   font-size: 25px;
   opacity: 0.7;
   font-weight: lighter;
-  font-weight: bold
+  font-weight: bold;
+
 }
 
 p {
