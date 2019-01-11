@@ -12,3 +12,12 @@ test:
   database: rails-mister-cocktail_test
 
 CLOUDINARY_URL: loudinary://936386882556229:E5mRKkSTZVf7zkflaUKzv07g_Rk@dh86rmr0j
+
+production:
+  adapter: postgresql
+  encoding: utf8
+  database: <%= ENV['RDS_DB_NAME'] %>
+  username: <%= ENV['RDS_USERNAME'] %>
+  password: <%= ENV['RDS_PASSWORD'] %>
+  host: <%= ENV['RDS_HOSTNAME'] %>
+  port: <%= ENV['RDS_PORT'] %>
