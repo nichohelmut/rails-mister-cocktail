@@ -1,10 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="a5d9bf1d-6a24-48b7-9cc5-bb700960a7fe" name="Default Changelist" comment="">
-      <change beforePath="$PROJECT_DIR$/Gemfile" beforeDir="false" afterPath="$PROJECT_DIR$/Gemfile" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Gemfile.lock" beforeDir="false" afterPath="$PROJECT_DIR$/Gemfile.lock" afterDir="false" />
-    </list>
+    <list default="true" id="a5d9bf1d-6a24-48b7-9cc5-bb700960a7fe" name="Default Changelist" comment="" />
     <ignored path="$PROJECT_DIR$/.bundle/" />
     <ignored path="$PROJECT_DIR$/components/" />
     <ignored path="$PROJECT_DIR$/log/" />
@@ -212,7 +209,7 @@
     <option name="totallyTimeSpent" value="791000" />
   </component>
   <component name="ToolWindowManager">
-    <frame x="-1251" y="40" width="1265" height="706" extended-state="0" />
+    <frame x="-1251" y="40" width="1265" height="706" extended-state="1" />
     <editor active="true" />
     <layout>
       <window_info id="Favorites" side_tool="true" />
